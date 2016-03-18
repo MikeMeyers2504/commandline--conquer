@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "handlebars.js",
+    "test:single": "handlebars.js",
     "start": "node server.js"
   },
   "repository": {

@@ -6,3 +6,6 @@ services:
   - mongodb
 
 sudo:required
+
+script:
+  - npm run test:single
