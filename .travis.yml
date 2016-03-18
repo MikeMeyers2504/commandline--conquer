@@ -1,11 +1,8 @@
-npm install -g karma
+install:
+ - npm install -g karma
 language: node_js
 node_js:
   - "5.1"
 
 services:
   - mongodb
-
-sudo: false
-script:
-  - npm run test
