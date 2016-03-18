@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-  "test": "handlebars.js",
+  "test": "server.js",
     "start": "node server.js"
   },
   "repository": {
